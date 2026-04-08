@@ -52,3 +52,4 @@ I can switch from debugging code to designing a game level 🎮💻
 "Build smart. Learn fast. Never stop improving."
 
 ⭐ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=i-meeran&color=blue&style=flat-square)
