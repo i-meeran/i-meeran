@@ -10,6 +10,7 @@
 🔭 Currently working on:
 AI / Machine Learning projects
 Java-based systems
+
 🌱 Learning:
 Data Structures & Algorithms
 Machine Learning & Data Analysis
@@ -28,6 +29,7 @@ Tools: Git, GitHub, VS Code, IntelliJ IDEA, MySQL
 Data Analysis Projects
 Beginner Machine Learning Models
 Interactive features
+
 💻 Software
 Digital Complaint Management System
 Blockchain-Inspired Log System
@@ -40,6 +42,7 @@ Blockchain-Inspired Log System
 ⚡ Fast learner & adaptable
 🛠️ Experience in development + documentation
 🎮 Interest in both technical & creative fields
+
 📫 Contact
 📧 Email: m.meeran.pathan@gmail.com
 
