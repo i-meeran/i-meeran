@@ -1,6 +1,7 @@
 🚀 Hi, I'm Meeran Pathan
 
 🎓 Software Engineering Student
+
 💻 Developer | AI/ML Enthusiast |Web Designer
 📍 Pakistan
 
