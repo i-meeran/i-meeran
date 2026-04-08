@@ -36,7 +36,7 @@ Beginner Machine Learning Models
 
 Software Projects:
 
-Digital Complaint Management System
+Digital Complaint Management System,
 Blockchain-Inspired Log System
 
 📊 GitHub
