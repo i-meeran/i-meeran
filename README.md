@@ -33,7 +33,7 @@ Digital Complaint Management System
 Blockchain-Inspired Log System
 
 📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=i-meeran&show_icons=true&theme=default" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=i-meeran&theme=default" /> </p>
 
 🏆 Highlights
 🧩 Strong problem-solving mindset
