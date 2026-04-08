@@ -43,7 +43,7 @@
 
 ## 📫 Connect with Me
 
- [Email](m.meeran.pathan@gmail.com) 
+ [Email] m.meeran.pathan@gmail.com
 
 ---
 
