@@ -1,4 +1,4 @@
-#Hi, I'm Meeran Pathan
+# Hi, I'm Meeran Pathan
 
 >  AI/ML Enthusiast |  Game Developer |  Web Designer | Exploring Code, Games and Web experience
 
