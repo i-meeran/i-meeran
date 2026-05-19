@@ -1,6 +1,6 @@
-# 🚀 Hi, I'm Meeran Pathan
+#Hi, I'm Meeran Pathan
 
-> 🤖 AI/ML Enthusiast | 🎮 Game Developer | 🌐 Web Designer | Exploring Code, Games and Web experience
+>  AI/ML Enthusiast |  Game Developer |  Web Designer | Exploring Code, Games and Web experience
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=i-meeran&theme=tokyonight&hide_border=true" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
@@ -40,18 +40,18 @@
 ---
 
 
-## 📫 Connect with Me
+##  Connect with Me
 
  [Email] m.meeran.pathan@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-> I can switch from debugging code to designing a game level or web interface in a day 🎮💻🌐  
+> I can switch from debugging code to designing a game level or web interface in a day  
 
 ---
 
-## 🔥 Motto
+##  Motto
 
 **"Build smart. Learn fast. Never stop improving."**
