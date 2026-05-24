@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Meeran Pathan
 
 <h3 align="center">
@@ -10,7 +11,7 @@ Passionate about building AI-powered systems, intelligent automation, RAG applic
 
 ---
 
-##  Tech & AI Stack
+## 🚀 Tech & AI Stack
 
 <p align="center">
 
@@ -41,18 +42,18 @@ I enjoy building:
 
 ✅ AI-powered applications  
 ✅ RAG chatbots & document intelligence systems  
-✅ Agentic AI workflows & automation systems  
-✅ Smart problem-solving applications using data and LLMs  
-✅ Interactive software with practical real-world use cases
+✅ Agentic AI workflows & autonomous systems  
+✅ Smart real-world problem-solving tools  
+✅ LLM-based intelligent applications  
 
 Currently exploring:
 
 - 🧠 Agentic AI Systems  
 - 🤖 Autonomous AI Agents  
 - 🔎 Retrieval-Augmented Generation (RAG)  
-- 📊 Data Analysis & Machine Learning  
+- 📊 Machine Learning & Data Science  
 - 💬 LLM-based Applications  
-- ⚡ AI Automation Workflows
+- ⚡ AI Automation Workflows  
 
 ---
 
@@ -75,15 +76,22 @@ Intelligent Systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=i-meeran&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=i-meeran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-meeran&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-meeran&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-meeran&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=i-meeran&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
@@ -92,19 +100,19 @@ Intelligent Systems
 
 🔭 Building AI/ML & Agentic AI Projects  
 🌱 Learning intelligent systems, LLM workflows & automation  
-🎯 Goal: Become an AI Engineer specializing in Agentic AI & Intelligent Systems
+🎯 Goal: Become an AI Engineer specializing in Agentic AI & Intelligent Systems  
 
 ---
 
 ## 🌍 Connect With Me
 
-📧 **Email:** `m.meeran.pathan@gmail.com`
+📧 **Email:** m.meeran.pathan@gmail.com  
 
 💼 Open to:
 - AI/ML Internships  
 - Agentic AI Projects  
-- AI-powered Software Development  
-- International Remote Opportunities
+- AI Software Development Roles  
+- Remote / International Opportunities  
 
 ---
 
