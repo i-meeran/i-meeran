@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-Building AI-powered systems, RAG applications, and agentic workflows that solve real-world problems with intelligence and automation.
+I build AI-powered systems, RAG applications, and agentic workflows that turn data into intelligent decisions.
 </p>
 
 ---
 
-## 🚀 Tech & AI Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
@@ -33,33 +33,34 @@ Building AI-powered systems, RAG applications, and agentic workflows that solve 
 
 ## 🧠 About Me
 
-I'm a Software Engineering student focused on **AI/ML, Agentic AI systems, and intelligent automation**.
+I'm a Software Engineering student focused on **Artificial Intelligence, Machine Learning, and Agentic AI systems**.
 
-I build:
+I enjoy building:
 
 - 🤖 AI-powered applications  
 - 📄 RAG-based chatbot systems  
 - 🧠 Autonomous AI agents  
 - ⚡ Intelligent automation workflows  
-- 💬 LLM-powered tools  
+- 💬 LLM-based intelligent tools  
 
-Currently learning:
+Currently exploring:
 
 - Agentic AI architectures  
 - Multi-agent systems  
 - RAG pipelines  
-- LLM optimization  
-- AI product building  
+- LLM integration & optimization  
+- AI automation workflows  
 
 ---
 
-## 🚀 Interests
+## 🚀 Focus Areas
 
 ```text
 AI Engineering
 Machine Learning
+Deep Learning
 Agentic AI Systems
-Large Language Models
+Large Language Models (LLMs)
 RAG Pipelines
 Prompt Engineering
 AI Automation
@@ -69,34 +70,25 @@ Intelligent Systems
 
 ---
 
-## 📊 GitHub Stats (Stable Version)
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=i-meeran&show_icons=true&theme=default&hide_border=true&cache_seconds=60" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-meeran&layout=compact&theme=default&hide_border=true" 
-    height="170"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=i-meeran&theme=default&hide_border=true" 
-    height="170"
   />
 </p>
 
----
-
-## 🛠 Current Focus
-
-🔭 Building AI/ML + Agentic AI projects  
-🌱 Learning intelligent systems and LLM workflows  
-🎯 Goal: AI Engineer specializing in Agentic AI systems  
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=i-meeran&theme=github-compact&hide_border=true" 
+  />
+</p>
 
 ---
 
@@ -104,11 +96,17 @@ Intelligent Systems
 
 📧 Email: m.meeran.pathan@gmail.com  
 
+💼 Open to:
+- AI/ML Internships  
+- Agentic AI Projects  
+- AI Software Development Roles  
+- Remote / International Opportunities  
+
 ---
 
 ## ⚡ Fun Fact
 
-> I build systems that don’t just run code — they make decisions.
+> I don’t just write code — I build systems that think, learn, and automate.
 
 ---
 
