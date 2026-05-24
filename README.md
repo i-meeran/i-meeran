@@ -6,10 +6,18 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic%20AI-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autonomous%20Agents-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Automation-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
