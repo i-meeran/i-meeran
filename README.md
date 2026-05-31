@@ -42,10 +42,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
 </p>
 
-** AI / ML:** Pandas, NumPy, Matplotlib, Scikit-learn, Basic ML Models  
-** Agentic AI:** Autonomous Agents, Tool-Calling Systems, Multi-Agent Workflows  
-** LLM Apps:** Chatbots, RAG Systems, Prompt Engineering  
-** Data Science:** Data Analysis, Feature Engineering, Visualization  
+ AI / ML: Pandas, NumPy, Matplotlib, Scikit-learn, Basic ML Models  
+ Agentic AI: Autonomous Agents, Tool-Calling Systems, Multi-Agent Workflows  
+ LLM Apps: Chatbots, RAG Systems, Prompt Engineering  
+ Data Science: Data Analysis, Feature Engineering, Visualization  
 
 ---
 
