@@ -24,8 +24,10 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-meeran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=i-meeran&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -33,9 +35,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-meeran&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i-meeran&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=i-meeran&color=blue&style=flat-square)
 
 ---
