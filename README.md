@@ -18,13 +18,16 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
 </p>
+
 ---
 
 ## GitHub Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=i-meeran&theme=tokyonight&hide_border=true" />
-</p> ![Profile Views](https://komarev.com/ghpvc/?username=i-meeran&color=blue&style=flat-square)
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=i-meeran&color=blue&style=flat-square)
 
 ---
 
