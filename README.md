@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Meeran Pathan
+# Hi, I'm Muhammad Meeran Pathan
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Agentic+AI+Developer;RAG+%26+LLM+Explorer;Building+Intelligent+Systems;Turning+Ideas+Into+AI+Products+🚀" />
 
