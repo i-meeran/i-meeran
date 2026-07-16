@@ -2,105 +2,139 @@
 
 # 👋 Hi, I'm Muhammad Meeran Pathan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Agentic+AI+Developer;RAG+%26+LLM+Explorer;Building+Intelligent+Applications;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Agentic+AI+Developer;RAG+%26+LLM+Explorer;Building+Intelligent+Systems;Turning+Ideas+Into+AI+Products+🚀" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=i-meeran&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Automation-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge"/>
 
 </div>
 
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-Hi, I'm **Meeran Pathan** — an AI/ML enthusiast focused on creating intelligent systems.
+Hi, I'm **Meeran Pathan**, an AI/ML enthusiast passionate about building intelligent applications.
 
-I enjoy building:
+I focus on:
 
-🤖 Agentic AI Applications  
-🧠 Machine Learning Models  
-📚 RAG-based Knowledge Systems  
-💬 LLM-powered Applications  
+🤖 Agentic AI Systems  
+🧠 Machine Learning Solutions  
+📚 Retrieval-Augmented Generation (RAG)  
+💬 LLM Applications  
 ⚡ AI Automation Workflows  
 
-My goal is to transform ideas into useful AI-powered products.
 
 ---
 
 # 🛠️ Tech Stack
 
 
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql"/>
-</p>
-
-
-### 🤖 Artificial Intelligence
+## 💻 Programming Languages
 
 <p>
 
-<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep_Learning-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agentic_AI-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
 
 </p>
 
 
-### 📚 Libraries & Frameworks
+## 🤖 AI & Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,react,vite,docker,git,github"/>
-</p>
-
-
-### 📊 Data Science
-
-- Pandas
+- Python
 - NumPy
+- Pandas
 - Matplotlib
 - Scikit-learn
-- Feature Engineering
-- Data Visualization
+- TensorFlow
+- PyTorch
+- Transformers
+
+
+## 🧩 AI Engineering
+
+- LangChain
+- RAG Pipelines
+- Vector Databases
+- Prompt Engineering
+- AI Agents
+- Tool Calling Systems
+
+
+## 🌐 Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,git,github"/>
+
+</p>
 
 
 ---
 
-# 🔥 GitHub Statistics
+# 🔥 What I Build
 
-<div align="center">
+### 🤖 Agentic AI Applications
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=i-meeran&show_icons=true&theme=tokyonight&hide_border=true"/>
+Creating AI systems capable of:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-meeran&layout=compact&theme=tokyonight&hide_border=true"/>
+- Reasoning
+- Tool usage
+- Decision making
+- Automated workflows
 
-</div>
+
+### 📚 RAG Applications
+
+Building systems that:
+
+- Understand documents
+- Retrieve information
+- Generate accurate responses
+
+
+### 🧠 Machine Learning Projects
+
+Working on:
+
+- Classification
+- Prediction Models
+- Data Analysis
+- AI-powered solutions
 
 
 ---
 
-# ⚡ GitHub Streak
+# 🌱 Currently Exploring
 
-<div align="center">
+🚀 Multi-Agent Systems
 
-<img src="https://streak-stats.demolab.com/?user=i-meeran&theme=tokyonight&hide_border=true"/>
+🧠 Advanced RAG Architectures
 
-</div>
+⚡ LLM Engineering
+
+☁️ AI Deployment
+
+🔬 MLOps
 
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -111,68 +145,11 @@ My goal is to transform ideas into useful AI-powered products.
 
 ---
 
-# 🚀 Projects I Build
-
-### 🤖 AI Agents
-
-Building autonomous systems capable of:
-
-- Tool calling
-- Decision making
-- Workflow automation
-- Multi-step reasoning
-
-
-### 📚 RAG Systems
-
-Creating applications that can:
-
-- Understand documents
-- Retrieve knowledge
-- Generate contextual answers
-
-
-### 🧠 Machine Learning
-
-Developing:
-
-- Prediction models
-- Classification systems
-- Data analysis pipelines
-
-
----
-
-# 🌱 Currently Exploring
-
-🔹 Multi-Agent Architectures  
-🔹 Advanced RAG Pipelines  
-🔹 LLM Applications  
-🔹 AI Engineering  
-🔹 MLOps  
-
-
----
-
-# 🎯 2026 Goals
-
-🚀 Build production-ready AI applications
-
-🌍 Contribute to open-source AI projects
-
-💼 Become an AI Engineer
-
-📚 Continuously improve my AI engineering skills
-
-
----
-
 # 📫 Connect With Me
-
 
 <a href="mailto:m.meeran.pathan@gmail.com">
 
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
@@ -181,7 +158,7 @@ Developing:
 
 <div align="center">
 
-### "Build intelligent systems. Learn deeply. Automate everything possible."
+### 💡 "Build intelligent systems. Learn deeply. Automate everything possible."
 
 <br>
 
